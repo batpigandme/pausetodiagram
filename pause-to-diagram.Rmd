@@ -1,0 +1,86 @@
+---
+title: "Pause to diagram"
+ipsum_meta:
+  twitter_card: "Summary info for the Twitter Card"
+  twitter_site: ""
+  twitter_creator: "\\@dataandme"
+  og_url: "https\\://example.com/open/graph/finalURLfor/this"
+  og_description: "A modest size description of the content"
+  og_image: "https\\://example.com/open/graph/imageURLfor/this"
+output: 
+  hrbrthemes::ipsum:
+    toc: true
+---
+```{r include=FALSE}
+knitr::opts_chunk$set(fig.retina=2)
+```
+
+```{r ipsum_setup, message=FALSE, warning=FALSE, cache=FALSE, echo=FALSE}
+library(hrbrthemes)
+library(tidyverse)
+
+update_geom_font_defaults(font_rc)
+```
+
+### Heads up!
+
+_Pause_. You are about to encounter something which, though not difficult
+to grasp, requires that you to focus on it for a hot second, if you've never
+encountered it before. An analagous level of difficulty would be learning
+how to diagram a sentence. Some people learn this in grade-school, some never
+encounter the task at all. It's not _“hard”_ material, and you can be excellent
+at sentences (writing, reading—the works), and not have the foggiest clue how 
+to diagram one. Basically, it's something that's non-obvious, if new. 
+
+Frankly, sentence diagramming is slightly more confusing, for my money.  
+<img src="https://www.english-grammar-revolution.com/images/diagram_it_10_13_thoughts.png" />
+
+<img src="http://elephanttube.me/wp-content/uploads/diagramming-sentences-diagram-of-sentence.jpg" />
+
+Like, you kow how to read this sentence, but do you know how to break it down 
+into a sentence diagram? I didn't (hence my adapting it from [Pop Chart Lab's](https://www.etsy.com/ca/listing/210182863/a-diagrammatical-dissertation-on-opening?ref=shop_home_active_23&show_panel=true) super cool first-line-of-novels-sentence-diagram poster).
+
+![](https://i.imgur.com/JcuUmgn.gif)
+
+Here, let's try another:
+
+![](https://i.imgur.com/DkC5Dcd.png)
+
+And here's a seemingly simple one, that's actually a bit trickier than it might 
+seem:
+
+![](https://i.imgur.com/mQrOM5h.png)
+
+### Prefix-ify
+
+Here is a very simple example of "prefixifying," if we allow (for the moment) 
+that `+` and `sum()` are one and the same.
+
+```{r}
+8 + 3
+
+sum(8, 3)
+```
+
+Turns out, there's a way to do this for any infix function, even if you don't 
+have an equivalent function handy: add backticks ``.
+
+```{r}
+`+`(8, 3)
+```
+
+OK, let's mix it up a little bit. What if there are two infix operators?
+
+```{r eval = FALSE}
+y <- x * 10
+```
+
+As Shannon Sharpe might say, _"that ain't no problem!"_
+
+```{r eval = FALSE}
+`<-`(y, `*`(x, 10))
+```
+
+![](https://i.imgur.com/Oyg02UL.gif)
+
+![prefixifying](https://i.imgur.com/G0LJGS3.gif)
