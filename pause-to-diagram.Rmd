@@ -51,6 +51,11 @@ seem:
 
 ![](https://i.imgur.com/mQrOM5h.png)
 
+Sometimes you're not sure how to read the sentence based on looking at the 
+diagram—language is just weird like that:
+
+![](https://i.imgur.com/EO9FT58.png)
+
 ### Prefix-ify
 
 Here is a very simple example of "prefixifying," if we allow (for the moment) 
