@@ -26,7 +26,7 @@ update_geom_font_defaults(font_rc)
 
 _Pause_. You are about to encounter something which, though not difficult
 to grasp, requires that you to focus on it for a hot second, if you've never
-encountered it before. An analagous level of difficulty would be learning
+encountered it before. An analogous level of difficulty would be learning
 how to diagram a sentence. Some people learn this in grade-school, some never
 encounter the task at all. It's not _“hard”_ material, and you can be excellent
 at sentences (writing, reading—the works), and not have the foggiest clue how 
@@ -104,3 +104,20 @@ As Shannon Sharpe might say, _"that ain't no problem!"_
 ![](https://i.imgur.com/Oyg02UL.gif)
 
 ![prefixifying](https://i.imgur.com/G0LJGS3.gif)
+
+OK, so what about **_precedence_**?
+
+The example used in [Advanced R](https://adv-r.hadley.nz/expressions.html#naming-conventions) is actually quite similar to another grammatical favourite: the Oxford comma. 
+
+First, the R example: What does `1 + 2 * 3` yield? Do you get `9` (i.e. `(1 + 2) * 3`), or `7` (i.e. `1 + (2 * 3)`)?
+
+![](https://d33wubrfki0l68.cloudfront.net/b21a96ade5c792b5c78230c44e6b702a6449c0bd/92e3b/diagrams/expressions/ambig-order.png)
+
+For our sentence diagram, we want to know if we have a compound object (consisting of: rhinoceri, Washington, Lincoln), or if Washington and Lincoln are an appositive noun clause.
+
+![](https://www.verbicidemagazine.com/wp-content/uploads/2014/01/rhinoceri-washington-lincoln-oxford-serial-comma.jpg)
+
+![](https://i.imgur.com/Qp3aHiD.png)
+
+![](https://i.imgur.com/sAGMaUn.png)
+
