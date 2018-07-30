@@ -32,13 +32,26 @@ encounter the task at all. It's not _“hard”_ material, and you can be excell
 at sentences (writing, reading—the works), and not have the foggiest clue how 
 to diagram one. Basically, it's something that's non-obvious, if new. 
 
-Frankly, sentence diagramming is slightly more confusing, for my money.  
+Frankly, sentence diagramming is slightly more confusing, for my money. For the 
+literate, English-speaking reader, simple sentences are easy to parse (_e.g._ 
+subject and predicate; interrogative sentences, direct objects).
+
+![](https://i.imgur.com/RsNVKOi.png)
+
+But reading is different from knowing the rules that govern such a diagram.
+
 <img src="https://www.english-grammar-revolution.com/images/diagram_it_10_13_thoughts.png" />
+
+What's more, things get fairly complicated when we examine the types of 
+sentences we tend to actually use in real life (you don't need to know how 
+to diagram a relative clause or even what one is in order to speak them).
 
 <img src="http://elephanttube.me/wp-content/uploads/diagramming-sentences-diagram-of-sentence.jpg" />
 
+![](https://i.imgur.com/nrea9EX.png)
+
 Like, you kow how to read this sentence, but do you know how to break it down 
-into a sentence diagram? I didn't (hence my adapting it from [Pop Chart Lab's](https://www.etsy.com/ca/listing/210182863/a-diagrammatical-dissertation-on-opening?ref=shop_home_active_23&show_panel=true) super cool first-line-of-novels-sentence-diagram poster).
+into a sentence diagram? I didn't (hence my adapting it from [Pop Chart Lab's](https://www.popchartlab.com/) super cool [first-line-of-novels-sentence-diagram poster]((https://www.etsy.com/ca/listing/210182863/a-diagrammatical-dissertation-on-opening?ref=shop_home_active_23&show_panel=true))).
 
 ![](https://i.imgur.com/JcuUmgn.gif)
 
@@ -55,6 +68,8 @@ Sometimes you're not sure how to read the sentence based on looking at the
 diagram—language is just weird like that:
 
 ![](https://i.imgur.com/EO9FT58.png)
+
+## Back to the AST
 
 ### Prefix-ify
 
