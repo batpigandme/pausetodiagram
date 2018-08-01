@@ -121,3 +121,38 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 
 ![](https://i.imgur.com/sAGMaUn.png)
 
+## Definition-worthy
+
+* **Symbol**  
+* **Name**  
+* **Value**  
+* **Expression**  
+* **Operation**  
+* **Result**  
+* **Evaluation**  
+* **Constant**  
+* **Variable**  
+* **Quoted expression**  
+* **Call**  
+* **Unquoting**  
+* **Infix call**  
+* **Prefix call**  
+* **Abstract syntax tree**  
+* **Parse tree**  
+* **Promise**  
+* **Argument**  
+* **Argument name**  
+* **Named argument**  
+* **Special forms**  
+* **Operator precedence**  
+* **Expression object**  
+* **Control flow operators**  
+* **Lazy evaluation**  
+* **Eager evaluation**  
+* **Closure**  
+* **Quosure**  
+* **Parse**  
+* **Deparse**  
+* **Quotation**  
+* **Quasiquotation**  
+
