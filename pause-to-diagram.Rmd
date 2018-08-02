@@ -55,12 +55,12 @@ into a sentence diagram? I didn't (hence my adapting it from [Pop Chart Lab's](h
 
 ![](https://i.imgur.com/JcuUmgn.gif)
 
-Here, let's try another:
+How about the opening line from George Orwell's _1984_?
 
-![](https://i.imgur.com/DkC5Dcd.png)
+![](https://i.imgur.com/FwpTcdn.gif)
 
-And here's a seemingly simple one, that's actually a bit trickier than it might 
-seem:
+And here's a seemingly simple one, that's actually a bit trickier than one might
+expect:
 
 ![](https://i.imgur.com/mQrOM5h.png)
 
@@ -101,9 +101,7 @@ As Shannon Sharpe might say, _"that ain't no problem!"_
 `<-`(y, `*`(x, 10))
 ```
 
-![](https://i.imgur.com/Oyg02UL.gif)
-
-![prefixifying](https://i.imgur.com/G0LJGS3.gif)
+![prefixifying](https://i.imgur.com/soqfKVn.gif)
 
 OK, so what about **_precedence_**?
 
@@ -144,7 +142,8 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 * **Special forms**  
 * **Operator precedence**  
 * **Expression object**  
-* **Control flow operators**  
+* **Control-flow operators**
+* **Reserved words**
 * **Lazy evaluation**  
 * **Eager evaluation**  
 * **Closure**  
@@ -153,4 +152,6 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 * **Deparse**  
 * **Quotation**  
 * **Quasiquotation**  
+* **Empty symbol**
 
+## _Differentia_
