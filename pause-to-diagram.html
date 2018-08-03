@@ -313,13 +313,14 @@ margin-left: 0.6875em;
 <div id="prefix-ify" class="section level3">
 <h3>Prefix-ify</h3>
 <p>Here is a very simple example of “prefixifying,” if we allow (for the moment) that <code>+</code> and <code>sum()</code> are one and the same.</p>
-<pre class="r"><code>8 + 3</code></pre>
-<pre><code>## [1] 11</code></pre>
-<pre class="r"><code>sum(8, 3)</code></pre>
-<pre><code>## [1] 11</code></pre>
+<pre class="r"><code>8 + 3
+#&gt; [1] 11
+
+sum(8, 3)
+#&gt; [1] 11</code></pre>
 <p>Turns out, there’s a way to do this for any infix function, even if you don’t have an equivalent function handy: add backticks ``.</p>
-<pre class="r"><code>`+`(8, 3)</code></pre>
-<pre><code>## [1] 11</code></pre>
+<pre class="r"><code>`+`(8, 3)
+#&gt; [1] 11</code></pre>
 <p>OK, let’s mix it up a little bit. What if there are two infix operators?</p>
 <pre class="r"><code>y &lt;- x * 10</code></pre>
 <p>As Shannon Sharpe might say, <em>“that ain’t no problem!”</em></p>
