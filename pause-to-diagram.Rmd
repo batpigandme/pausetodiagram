@@ -155,3 +155,9 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 * **Empty symbol**
 
 ## _Differentia_
+
+### Symbols and Strings
+
+### Expressions and Expression Objects
+
+### Lazy vs Eager Evaluation
