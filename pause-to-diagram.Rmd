@@ -69,7 +69,15 @@ diagram—language is just weird like that:
 
 ![](https://i.imgur.com/EO9FT58.png)
 
+## The Gettysburg Address
+
+
+
 ## Back to the AST
+
+Sentence parse trees are closer in form to abstrct syntax trees (ASTs) than the Reed-Kellogg diagrams explored, above.
+
+![sentece parse tree](`r here::here("img", "sentence_parse_tree.png")`)
 
 ### Prefix-ify
 
@@ -161,3 +169,6 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 ### Expressions and Expression Objects
 
 ### Lazy vs Eager Evaluation
+
+### Referential vs Value Semantics
+
