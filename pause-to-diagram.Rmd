@@ -71,7 +71,11 @@ diagram—language is just weird like that:
 
 ## The Gettysburg Address
 
+![](`r here::here("img", "lincoln_gettysburg_four_score.png")`)
 
+![](`r here::here("img", "lincoln_gettysburg_little_note.png")`)
+
+![](`r here::here("img", "lincoln_gettysburg_us_the_living.png")`)
 
 ## Back to the AST
 
@@ -172,3 +176,8 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 
 ### Referential vs Value Semantics
 
+### Execution Environment vs Caller Environment
+
+### Package Environment vs Namespace Environment
+
+### Delayed Bindings vs Active Bindings
