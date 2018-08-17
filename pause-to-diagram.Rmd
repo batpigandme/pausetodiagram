@@ -69,7 +69,7 @@ diagram—language is just weird like that:
 
 ![](https://i.imgur.com/EO9FT58.png)
 
-## The Gettysburg Address
+## The Gettysburg Address[^gettysburg]
 
 ![](`r here::here("img", "lincoln_gettysburg_four_score.png")`)
 
@@ -181,3 +181,5 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 ### Package Environment vs Namespace Environment
 
 ### Delayed Bindings vs Active Bindings
+
+[^gettysburg]: <http://www.german-latin-english.com/diagramgettysburg.htm>
