@@ -1,267 +1,129 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="29 9 523 446" width="523pt"
-    height="446pt">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-        <dc:date>2018-08-19 15:28Z</dc:date>
-        <!-- Produced by OmniGraffle Professional 5.4.4 -->
-    </metadata>
-    <defs>
-        <font-face font-family="Equity Text B" font-size="18" units-per-em="1000" underline-position="-50" underline-thickness="50"
-            slope="-944.44446" x-height="485" cap-height="718" ascent="947.99805" descent="-255.99672" font-style="italic" font-weight="500">
-            <font-face-src>
-                <font-face-name name="EquityTextB-Italic" /></font-face-src>
-        </font-face>
-        <font-face font-family="Equity Text B" font-size="14" units-per-em="1000" underline-position="-50" underline-thickness="50"
-            slope="0" x-height="470" cap-height="718" ascent="947.99805" descent="-255.99672" font-weight="500">
-            <font-face-src>
-                <font-face-name name="EquityTextB" /></font-face-src>
-        </font-face>
-        <font-face font-family="Equity Text B" font-size="14" units-per-em="1000" underline-position="-50" underline-thickness="50"
-            slope="-1214.2858" x-height="485" cap-height="718" ascent="947.99805" descent="-255.99672" font-style="italic" font-weight="500">
-            <font-face-src>
-                <font-face-name name="EquityTextB-Italic" /></font-face-src>
-        </font-face>
-        <font-face font-family="Concourse T3 Tab" font-size="14" units-per-em="1000" underline-position="-50" underline-thickness="50"
-            slope="0" x-height="467" cap-height="693" ascent="953.99475" descent="-257.9956" font-weight="500">
-            <font-face-src>
-                <font-face-name name="ConcourseT3Tab" /></font-face-src>
-        </font-face>
-        <font-face font-family="Concourse T3" font-size="14" units-per-em="1000" underline-position="-50" underline-thickness="50"
-            slope="0" x-height="467" cap-height="693" ascent="953.99475" descent="-257.9956" font-weight="500">
-            <font-face-src>
-                <font-face-name name="ConcourseT3" /></font-face-src>
-        </font-face>
-    </defs>
-    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
-        <title>Gettysburg_S4</title>
-        <rect fill="white" width="576" height="733" />
-        <g>
-            <title>Layer 1</title>
-            <text transform="translate(72.025603 18)" fill="WindowText">
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText" x="0"
-                    y="17" textLength="16.757999">W</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="14.958" y="17" textLength="35.298">e hav</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="50.076" y="17" textLength="111.366">e come to dedicat</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500"
-                    fill="WindowText" x="161.352" y="17" textLength="86.976">e a portion of</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500"
-                    fill="WindowText" x="248.688" y="17" textLength="45"> that fi</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="293.688" y="17" textLength="19.692">eld</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="313.92" y="17" textLength="5.3460002">,</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="318.546" y="17" textLength="43.902"> as a fi</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="362.448" y="17" textLength="26.046">nal </tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="0" y="40.5" textLength="6.606">r</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="6.156" y="40.5" textLength="6.498">e</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="12.474" y="40.5" textLength="117.648">sting place for tho</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500"
-                    fill="WindowText" x="129.942" y="40.5" textLength="5.922">s</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="135.684" y="40.5" textLength="55.692">e who he</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="191.556" y="40.5" textLength="6.606">r</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="197.712" y="40.5" textLength="34.02">e gav</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="231.552" y="40.5" textLength="63.486">e their liv</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500"
-                    fill="WindowText" x="294.858" y="40.5" textLength="6.498">e</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="301.176" y="40.5" textLength="120.924">s that that nation </tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500"
-                    fill="WindowText" x="0" y="64" textLength="17.658001">mi</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="17.478" y="64" textLength="42.462002">ght liv</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="59.76" y="64" textLength="6.498">e</tspan>
-                <tspan font-family="Equity Text B" font-size="18" font-style="italic" font-weight="500" fill="WindowText"
-                    x="66.438" y="64" textLength="4.554">.</tspan>
-            </text>
-            <text transform="translate(128.12973 91.67536)" fill="WindowText">
-                <tspan font-family="Equity Text B" font-size="14" font-weight="500" fill="WindowText" x="0" y="13" textLength="38.891998">— Abr</tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-weight="500" fill="WindowText" x="38.752"
-                    y="13" textLength="83.524">aham Lincoln, </tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-style="italic" font-weight="500"
-                    fill="WindowText" x="122.276" y="13" textLength="47.222">The Gett</tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-style="italic" font-weight="500" fill="WindowText"
-                    x="169.638" y="13" textLength="5.7399998">y</tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-style="italic" font-weight="500" fill="WindowText"
-                    x="175.238" y="13" textLength="31.29">sburg </tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-style="italic" font-weight="500" fill="WindowText"
-                    x="206.108" y="13" textLength="9.38">A</tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-style="italic" font-weight="500" fill="WindowText"
-                    x="215.208" y="13" textLength="18.382">ddr</tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-style="italic" font-weight="500" fill="WindowText"
-                    x="233.24" y="13" textLength="5.054">e</tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-style="italic" font-weight="500" fill="WindowText"
-                    x="238.154" y="13" textLength="12.1520004">ss </tspan>
-                <tspan font-family="Equity Text B" font-size="14" font-weight="500" fill="WindowText" x="250.306"
-                    y="13" textLength="35.742">(1863)</tspan>
-            </text>
-            <line x1="136.02016" y1="184.11612" x2="473.21513" y2="184.11612" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <line x1="40.583405" y1="150.11612" x2="187.5834" y2="150.11612" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <line x1="244.14045" y1="184.11615" x2="282.8071" y2="222.7828" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(271.20815 185.31967) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x=".03" y="13" textLength="7.7">fi</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x="7.73" y="13" textLength="16.24">nal</tspan>
-            </text>
-            <line x1="220.41867" y1="184.11614" x2="252.41866" y2="216.11613" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(249.56483 190.56019) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x=".35" y="13" textLength="6.3000002">a</tspan>
-            </text>
-            <line x1="275.47378" y1="184.11613" x2="318.0076" y2="226.64995" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(301.42305 184.48848) rotate(44.637878)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="4.48">r</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="4.34" y="13"
-                    textLength="32.619999">esting</tspan>
-            </text>
-            <line x1="306.94646" y1="184.48848" x2="336.49497" y2="214.03699" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(332.8253 185.96684) rotate(44.637878)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="4.48">f</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="4.34" y="13"
-                    textLength="11.34">or</tspan>
-            </text>
-            <line x1="336.49496" y1="214.03699" x2="401.17378" y2="214.03699" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(351.49496 195.69984)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="29.4">those</tspan>
-            </text>
-            <line x1="387.6806" y1="183.2654" x2="387.6806" y2="158.43184" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <line x1="84.791146" y1="126.23224" x2="84.791146" y2="162.58446" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <line x1="103.020164" y1="151.11613" x2="136.02016" y2="184.11612" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(132.16999 155.86547) rotate(44.637878)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="11.2">to</tspan>
-            </text>
-            <line x1="202.51945" y1="184.11612" x2="219.51945" y2="167.11612" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(152.5834 166.71207)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="35.14">dedica</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="35"
-                    y="13" textLength="10.6400003">te</tspan>
-            </text>
-            <text transform="translate(407.44755 165.08795)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="18.200001">por</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="18.48"
-                    y="13" textLength="21.14">tion</tspan>
-            </text>
-            <text transform="translate(290.11764 163.70591)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="28.28">place</tspan>
-            </text>
-            <line x1="416.5834" y1="184.11612" x2="448.5834" y2="216.11611" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(445.72957 190.56017) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x=".35" y="13" textLength="6.3000002">a</tspan>
-            </text>
-            <line x1="482.016" y1="216.7891" x2="450.18282" y2="184.95594" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(475.03653 186.49753) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="11.34">of</tspan>
-            </text>
-            <line x1="535.41657" y1="249.00522" x2="503.5834" y2="217.17206" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(527.40158 217.67811) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="21.700001">that</tspan>
-            </text>
-            <text transform="translate(393.51947 325.7184) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="21.700001">that</tspan>
-            </text>
-            <text transform="translate(50.583405 133.759606)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="12.18">W</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="11.62" y="13"
-                    textLength="6.3000002">e</tspan>
-            </text>
-            <text transform="translate(101.9176 132.22351)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="13.0200005">ha</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="12.88" y="13"
-                    textLength="6.16">v</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="18.9" y="13"
-                    textLength="38.64">e come</tspan>
-            </text>
-            <line x1="482.03403" y1="217.25657" x2="520.70068" y2="217.25657" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(489.00332 199.67206)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="7.7">fi</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="7.7" y="13"
-                    textLength="16.379999">eld</tspan>
-            </text>
-            <line x1="306.94645" y1="283.33008" x2="306.94645" y2="316.09816" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <line x1="267.77666" y1="305.00537" x2="420.28097" y2="305.00537" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <line x1="354.84995" y1="341.79847" x2="321.02666" y2="305.00537" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(345.0518 306.50104) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="23.799999">here</tspan>
-            </text>
-            <line x1="355.27663" y1="305.00537" x2="355.27663" y2="281.6797" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(275.28062 288.66206)" fill="black">
-                <tspan font-family="Concourse T3" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="22.540001">who</tspan>
-            </text>
-            <text transform="translate(317.1947 286.62861)" fill="black">
-                <tspan font-family="Concourse T3" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="13.16">ga</tspan>
-                <tspan font-family="Concourse T3" font-size="14" font-weight="500" fill="black" x="13.02" y="13"
-                    textLength="6.16">v</tspan>
-                <tspan font-family="Concourse T3" font-size="14" font-weight="500" fill="black" x="19.04" y="13"
-                    textLength="6.3000002">e</tspan>
-            </text>
-            <text transform="translate(371.02666 287.19199)" fill="black">
-                <tspan font-family="Concourse T3" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="12.6000004">liv</tspan>
-                <tspan font-family="Concourse T3" font-size="14" font-weight="500" fill="black" x="12.46" y="13"
-                    textLength="11.4799995">es</tspan>
-            </text>
-            <line x1="420.28095" y1="336.52515" x2="388.44778" y2="304.69199" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(410.85174 303.78383) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="25.06">their</tspan>
-            </text>
-            <line x1="351.38074" y1="411.0616" x2="479.26876" y2="411.0616" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <line x1="402.54945" y1="390.01708" x2="402.54945" y2="421.85024" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(358.75625 392.98412)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x=".49" y="13" textLength="13.0200005">na</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x="13.37" y="13" textLength="21.14">tion</tspan>
-            </text>
-            <text transform="translate(408.54945 392.98412)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x=".33" y="13" textLength="27.3">migh</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x="27.49" y="13" textLength="20.02">t liv</tspan>
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" x="47.37" y="13" textLength="6.3000002">e</tspan>
-            </text>
-            <line x1="390.2139" y1="443.2118" x2="358.38074" y2="411.37864" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(382.1989 411.8847) rotate(45)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="21.700001">that</tspan>
-            </text>
-            <line x1="254.31855" y1="153.28295" x2="254.31855" y2="185.11611" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" stroke-dasharray="4,4" />
-            <line x1="240.31855" y1="152.28296" x2="269.31855" y2="152.28296" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" />
-            <text transform="translate(247.31855 134.77768)" fill="black">
-                <tspan font-family="Concourse T3 Tab" font-size="14" font-weight="500" fill="black" x="0" y="13" textLength="11.4799995">as</tspan>
-            </text>
-            <line x1="359.31854" y1="215.03699" x2="286.23941" y2="288.11612" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" stroke-dasharray="4,4" />
-            <line x1="347.49496" y1="305.11612" x2="436.49496" y2="394.11612" stroke="black" stroke-linecap="round" stroke-linejoin="round"
-                stroke-width="1" stroke-dasharray="4,4" />
-        </g>
-    </g>
+<svg version="1.1" id="Layer_1" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="523px" height="446px"
+	 viewBox="0 0 523 446" enable-background="new 0 0 523 446" xml:space="preserve">
+<defs>
+	
+	
+		<font-face  font-family="Equity Text B" font-size="18" units-per-em="1000" slope="-944.44446" x-height="485" cap-height="718" ascent="947.99805" descent="-255.99672" font-style="italic" font-weight="500" underline-position="-50" underline-thickness="50">
+		<font-face-src>
+			<font-face-name  name="EquityTextB-Italic"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  font-family="Equity Text B" font-size="14" units-per-em="1000" slope="0" x-height="470" cap-height="718" ascent="947.99805" descent="-255.99672" font-weight="500" underline-position="-50" underline-thickness="50">
+		<font-face-src>
+			<font-face-name  name="EquityTextB"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  font-family="Equity Text B" font-size="14" units-per-em="1000" slope="-1214.2858" x-height="485" cap-height="718" ascent="947.99805" descent="-255.99672" font-style="italic" font-weight="500" underline-position="-50" underline-thickness="50">
+		<font-face-src>
+			<font-face-name  name="EquityTextB-Italic"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  font-family="Concourse T3 Tab" font-size="14" units-per-em="1000" slope="0" x-height="467" cap-height="693" ascent="953.99475" descent="-257.9956" font-weight="500" underline-position="-50" underline-thickness="50">
+		<font-face-src>
+			<font-face-name  name="ConcourseT3Tab"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  font-family="Concourse T3" font-size="14" units-per-em="1000" slope="0" x-height="467" cap-height="693" ascent="953.99475" descent="-257.9956" font-weight="500" underline-position="-50" underline-thickness="50">
+		<font-face-src>
+			<font-face-name  name="ConcourseT3"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<g>
+	<title>Gettysburg_S4</title>
+	<g>
+		<title>Layer 1</title>
+		
+				<text transform="matrix(1 0 0 1 25.1665 124.7598)" font-family="'ConcourseT3Tab'" font-size="14">We</text>
+				<text transform="matrix(1 0 0 1 37.3462 124.7598)" font-family="'ArialMT'" font-size="12"> </text>
+				<text transform="matrix(1 0 0 1 76.5005 123.2236)" font-family="'ConcourseT3Tab'" font-size="14">have</text>
+				<text transform="matrix(1 0 0 1 105.603 123.2236)" font-family="'ConcourseT3Tab'" font-size="14">come</text>
+				<text transform="matrix(0.7116 0.7026 -0.7026 0.7116 97.6187 143.1162)" font-family="'ConcourseT3Tab'" font-size="14">to</text>
+				<text transform="matrix(1 0 0 1 122.1665 157.7119)" font-family="'ConcourseT3Tab'" font-size="14">dedicate</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 411.3682 178)" font-family="'ConcourseT3Tab'" font-size="14">a</text>
+				<text transform="matrix(1 0 0 1 382.0303 156.0879)" font-family="'ConcourseT3Tab'" font-size="14">portion</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 440.4268 173.6895)" font-family="'ConcourseT3Tab'" font-size="14">of</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 492.792 204.8701)" font-family="'ConcourseT3Tab'" font-size="14">that</text>
+				<text transform="matrix(1 0 0 1 463.5859 190.6719)" font-family="'ConcourseT3Tab'" font-size="14">field</text>
+				<text transform="matrix(1 0 0 1 221.9014 125.7773)" font-family="'ConcourseT3Tab'" font-size="14">as</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 215.2031 178)" font-family="'ConcourseT3Tab'" font-size="14">a</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 236.6201 172.5332)" font-family="'ConcourseT3Tab'" font-size="14">final</text>
+				<text transform="matrix(0.7116 0.7026 -0.7026 0.7116 266.8711 171.7383)" font-family="'ConcourseT3Tab'" font-size="14">resting</text>
+				<text transform="matrix(1 0 0 1 264.7012 154.7061)" font-family="'ConcourseT3Tab'" font-size="14">place</text>
+				<text transform="matrix(0.7116 0.7026 -0.7026 0.7116 298.2734 173.2168)" font-family="'ConcourseT3Tab'" font-size="14">for</text>
+				<text transform="matrix(1 0 0 1 326.0781 186.7002)" font-family="'ConcourseT3Tab'" font-size="14">those</text>
+				<text transform="matrix(1 0 0 1 249.8638 279.6621)" font-family="'ConcourseT3'" font-size="14">who</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 310.4424 293.6934)" font-family="'ConcourseT3'" font-size="14">here</text>
+				<text transform="matrix(1 0 0 1 291.7773 277.6289)" font-family="'ConcourseT3'" font-size="14">gave</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 376.2422 290.9766)" font-family="'ConcourseT3Tab'" font-size="14">their</text>
+				<text transform="matrix(1 0 0 1 345.6094 278.1924)" font-family="'ConcourseT3'" font-size="14">lives</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 358.9102 312.9111)" font-family="'ConcourseT3Tab'" font-size="14">that</text>
+				<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 347.5898 399.0771)" font-family="'ConcourseT3Tab'" font-size="14">that</text>
+				<text transform="matrix(1 0 0 1 333.8291 383.9844)" font-family="'ConcourseT3Tab'" font-size="14">nation</text>
+				<text transform="matrix(1 0 0 1 383.4629 383.9844)" font-family="'ConcourseT3Tab'" font-size="14">might</text>
+				<text transform="matrix(1 0 0 1 422.623 383.9844)" font-family="'ConcourseT3Tab'" font-size="14">live</text>
+
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="110.603" y1="162.116" x2="447.798" y2="162.116"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="15.167" y1="128.116" x2="162.167" y2="128.116"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="218.724" y1="162.116" x2="257.39" y2="200.783"/>
+
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="195.001" y1="162.116" x2="227.001" y2="194.116"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="250.057" y1="162.116" x2="292.591" y2="204.65"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="281.529" y1="162.488" x2="311.078" y2="192.037"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="311.078" y1="192.037" x2="375.757" y2="192.037"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="362.264" y1="161.266" x2="362.264" y2="136.432"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="59.374" y1="104.232" x2="59.374" y2="140.584"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="77.603" y1="129.116" x2="110.603" y2="162.116"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="177.103" y1="162.116" x2="194.103" y2="145.116"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="391.166" y1="162.116" x2="423.166" y2="194.116"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="456.599" y1="194.789" x2="424.766" y2="162.956"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="510" y1="227.006" x2="478.166" y2="195.172"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="456.617" y1="195.257" x2="495.284" y2="195.257"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="281.529" y1="261.33" x2="281.529" y2="294.1"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="242.36" y1="283.006" x2="394.864" y2="283.006"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="329.434" y1="319.799" x2="295.609" y2="283.006"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="329.859" y1="283.006" x2="329.859" y2="259.68"/>
+
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="394.864" y1="314.525" x2="363.03" y2="282.691"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="325.964" y1="389.062" x2="453.852" y2="389.062"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="377.133" y1="368.018" x2="377.133" y2="399.851"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="364.797" y1="421.212" x2="332.964" y2="389.379"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="228.901" y1="131.283" x2="228.901" y2="163.116"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="214.901" y1="130.283" x2="243.901" y2="130.283"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="333.9" y1="193.037" x2="260.822" y2="266.116"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="322.078" y1="283.116" x2="411.078" y2="372.116"/>
+	</g>
+</g>
 </svg>
