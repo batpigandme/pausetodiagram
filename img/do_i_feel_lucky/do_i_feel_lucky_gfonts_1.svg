@@ -55,10 +55,7 @@
 			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="73.785" y1="158.439" x2="73.785" y2="194.792"/>
 		<text transform="matrix(1 0 0 1 26.1138 180.2363)" font-family="'SourceSansPro-Regular'" font-size="16">You</text>
 		<text transform="matrix(1 0 0 1 81.5264 178.7705)" font-family="'SourceSansPro-Regular'" font-size="16">have</text>
-		<text transform="matrix(1 0 0 1 105.894 178.7705)" font-family="'ArialMT'" font-size="12"> </text>
-		<text transform="matrix(1 0 0 1 125.0625 178.7705)" font-family="'ArialMT'" font-size="12"> </text>
 		<text transform="matrix(1 0 0 1 118.8384 178.7705)" font-family="'SourceSansPro-Regular'" font-size="16">got </text>
-		<text transform="matrix(1 0 0 1 147.5581 178.7705)" font-family="'ArialMT'" font-size="12"> </text>
 		<text transform="matrix(1 0 0 1 145.3984 178.7705)" font-family="'SourceSansPro-Regular'" font-size="16">to ask</text>
 		<text transform="matrix(1 0 0 1 203.6631 178.7354)" font-family="'SourceSansPro-Regular'" font-size="16">question</text>
 		
@@ -67,8 +64,6 @@
 		
 			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="117.717" y1="212.439" x2="178.717" y2="212.439"/>
 		<text transform="matrix(1 0 0 1 120.7593 206.1543)" font-family="'SourceSansPro-Regular'" font-size="16">yourself</text>
-		<text transform="matrix(1 0 0 1 128.2314 206.1543)" font-family="'ArialMT'" font-size="12"> </text>
-		<text transform="matrix(1 0 0 1 151.0947 206.1543)" font-family="'ArialMT'" font-size="12"> </text>
 		
 			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="307.25" y1="263.431" x2="528.25" y2="263.431"/>
 		
@@ -95,13 +90,10 @@
 		
 			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="516.908" y1="263.838" x2="516.908" y2="322.48"/>
 		<text transform="matrix(1 0 0 1 126.5 33.25)" font-family="'Monoid-Regular'" font-size="18">You&apos;ve got to ask yourself one question:</text>
-		<text transform="matrix(1 0 0 1 606.4922 33.25)" font-family="'ArialMT'" font-size="12"> </text>
 		<text transform="matrix(1 0 0 1 126.5 63.75)" font-family="'Monoid-Regular'" font-size="18">‘Do I feel lucky?’ Well, do ya, punk?</text>
 		<text transform="matrix(1 0 0 1 249.5 90)" font-family="'Monoid-Regular'" font-size="13">Harry Callahan, </text>
 		<text transform="matrix(1 0 0 1 388.166 90)" font-family="'Monoid-Italic'" font-size="13">D</text>
-		<text transform="matrix(1 0 0 1 396.833 90)" font-family="'ArialMT'" font-size="12"> </text>
 		<text transform="matrix(1 0 0 1 397.375 90)" font-family="'Monoid-Italic'" font-size="13">i</text>
-		<text transform="matrix(1 0 0 1 406.041 90)" font-family="'ArialMT'" font-size="12"> </text>
 		<text transform="matrix(1 0 0 1 405.5 90)" font-family="'Monoid-Italic'" font-size="13">rty Harry</text>
 	</g>
 </g>
