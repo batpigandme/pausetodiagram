@@ -1,168 +1,114 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="8 0 717 444"
-    width="717pt" height="37pc">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-        <dc:date>2018-09-09 11:39Z</dc:date><!-- Produced by OmniGraffle Professional 5.4.4 -->
-    </metadata>
-    <defs>
-        <font-face font-family="Source Sans Pro" font-size="12" panose-1="2 11 3 3 3 4 3 2 2 4" units-per-em="1000"
-            underline-position="-75" underline-thickness="50" slope="0" x-height="491" cap-height="673" ascent="984.002"
-            descent="-273.00055" font-weight="300">
-            <font-face-src>
-                <font-face-name name="SourceSansPro-ExtraLight" />
-            </font-face-src>
-        </font-face>
-        <font-face font-family="Source Sans Pro" font-size="16" panose-1="2 11 5 3 3 4 3 2 2 4" units-per-em="1000"
-            underline-position="-75" underline-thickness="50" slope="0" x-height="499" cap-height="669" ascent="984.002"
-            descent="-273.00055" font-weight="500">
-            <font-face-src>
-                <font-face-name name="SourceSansPro-Regular" />
-            </font-face-src>
-        </font-face>
-        <font-face font-family="Monoid" font-size="18" panose-1="2 11 5 9 4 0 0 2 0 4" units-per-em="1000"
-            underline-position="-289.0625" underline-thickness="78.125" slope="0" x-height="677.08337" cap-height="927.0834"
-            ascent="1083.32825" descent="-250" font-weight="500">
-            <font-face-src>
-                <font-face-name name="Monoid-Regular" />
-            </font-face-src>
-        </font-face>
-        <font-face font-family="Monoid" font-size="13" panose-1="2 11 5 9 4 0 0 2 0 4" units-per-em="1000"
-            underline-position="-289.0625" underline-thickness="78.125" slope="0" x-height="677.08337" cap-height="927.0834"
-            ascent="1083.32825" descent="-250.00002" font-weight="500">
-            <font-face-src>
-                <font-face-name name="Monoid-Regular" />
-            </font-face-src>
-        </font-face>
-        <font-face font-family="Monoid" font-size="13" panose-1="2 11 5 9 4 0 0 2 0 4" units-per-em="1000"
-            underline-position="-289.0625" underline-thickness="78.125" slope="-846.15387" x-height="677.08337"
-            cap-height="927.0834" ascent="1083.32825" descent="-250.00002" font-style="italic" font-weight="500">
-            <font-face-src>
-                <font-face-name name="Monoid-Italic" />
-            </font-face-src>
-        </font-face>
-    </defs>
-    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
-        <title>do_i_feel_lucky_gfonts</title>
-        <g>
-            <title>quote</title><text transform="translate(19.25 418.06058)" fill="black">
-                <tspan font-family="Source Sans Pro" font-size="12" font-weight="300" fill="black" x="0" y="12"
-                    textLength="28.752">Adapt</tspan>
-                <tspan font-family="Source Sans Pro" font-size="12" font-weight="300" fill="black" x="28.632" y="12"
-                    textLength="21.288">ed fr</tspan>
-                <tspan font-family="Source Sans Pro" font-size="12" font-weight="300" fill="black" x="49.8" y="12"
-                    textLength="25.056">om P</tspan>
-                <tspan font-family="Source Sans Pro" font-size="12" font-weight="300" fill="black" x="74.544" y="12"
-                    textLength="61.776">op Chart Lab</tspan>
-            </text>
-        </g>
-        <g>
-            <title>diagram</title>
-            <line x1="89.24999" y1="183.97222" x2="117.71722" y2="212.43945" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" />
-            <line x1="19.25" y1="183.97223" x2="277.25" y2="183.97223" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" />
-            <line x1="189.59476" y1="183.27301" x2="189.59476" y2="158.43946" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" />
-            <line x1="73.784576" y1="158.43945" x2="73.784576" y2="194.79167" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" /><text transform="translate(26.113595 164.23632)" fill="black">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="0" y="16"
-                    textLength="7.616">Y</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="6.96" y="16"
-                    textLength="17.375999">ou</tspan>
-            </text><text transform="translate(81.52656 162.77065)" fill="black">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="0" y="16"
-                    textLength="24.368">hav</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="24.304" y="16"
-                    textLength="19.232">e g</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="43.312" y="16"
-                    textLength="22.719999">ot t</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="65.872" y="16"
-                    textLength="34.720001">o ask</tspan>
-            </text><text transform="translate(203.66295 162.73544)" fill="black">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="0" y="16"
-                    textLength="58.912">question</tspan>
-            </text>
-            <line x1="201.25" y1="185.08235" x2="233.24999" y2="217.08234" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" /><text transform="translate(225.12834 183.35919) rotate(45)"
-                fill="black">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" x=".32" y="16" textLength="25.36">one</tspan>
-            </text>
-            <line x1="117.717224" y1="212.43945" x2="178.71722" y2="212.43945" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" /><text transform="translate(120.75947 190.15424)" fill="black">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="0" y="16"
-                    textLength="7.472">y</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="7.408" y="16"
-                    textLength="22.928">our</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="30.176" y="16"
-                    textLength="23.392">self</tspan>
-            </text>
-            <line x1="307.25" y1="263.43083" x2="528.25" y2="263.43083" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" />
-            <line x1="362.25" y1="238.43083" x2="362.25" y2="274.78305" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" /><text transform="translate(327.90868 241.30054)" fill="WindowText">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="0" y="16"
-                    textLength="4.2080002">I</tspan>
-            </text><text transform="translate(375.07313 241.459)" fill="WindowText">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="0" y="16"
-                    textLength="26.416">Do f</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="26.256" y="16"
-                    textLength="23.184">eel </tspan>
-            </text>
-            <line x1="453.24138" y1="263.43083" x2="429.25" y2="239.43945" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" /><text transform="translate(464.26051 242.99509)" fill="WindowText">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="0" y="16"
-                    textLength="35.472">lucky</tspan>
-            </text>
-            <line x1="249.25" y1="185.43945" x2="279.25" y2="215.43945" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4" />
-            <line x1="279.25" y1="214.93945" x2="375.25" y2="215.93945" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4" />
-            <line x1="374.25" y1="215.93945" x2="397.25" y2="238.93945" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4" />
-            <line x1="518.4087" y1="354.43944" x2="518.4087" y2="386.2726" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4" />
-            <line x1="495.4087" y1="353.43945" x2="544.4087" y2="353.43945" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" /><text transform="translate(505.8742 334.43417)" fill="black">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="black" x="0" y="16"
-                    textLength="28.672001">Well</tspan>
-            </text>
-            <line x1="456" y1="406.20834" x2="713.75" y2="406.20834" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" />
-            <line x1="547.75" y1="381.20834" x2="547.75" y2="417.56057" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" /><text transform="translate(467.6749 384.07806)" fill="WindowText">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="0" y="16"
-                    textLength="7.472">y</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="7.408" y="16"
-                    textLength="64.559998">ou (punk)</tspan>
-            </text><text transform="translate(559.42382 384.2365)" fill="WindowText">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="0" y="16"
-                    textLength="30.304">do (f</tspan>
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="30.144" y="16"
-                    textLength="24.799999">eel)</tspan>
-            </text>
-            <line x1="644.74138" y1="406.20834" x2="620.75" y2="382.21696" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" /><text transform="translate(654.11067 384.7726)" fill="WindowText">
-                <tspan font-family="Source Sans Pro" font-size="16" font-weight="500" fill="WindowText" x="0" y="16"
-                    textLength="45.168">(lucky)</tspan>
-            </text>
-            <line x1="516.9087" y1="263.8374" x2="516.9087" y2="322.48029" stroke="black" stroke-linecap="round"
-                stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4" /><text transform="translate(126.5 9.25)"
-                fill="black">
-                <tspan font-family="Monoid" font-size="18" font-weight="500" fill="black" x="0" y="24" textLength="480">You've
-                    got to ask yourself one question:</tspan>
-                <tspan font-family="Monoid" font-size="18" font-weight="500" fill="black" x="0" y="54.5" textLength="444">‘Do
-                    I feel lucky?’ Well, do ya, punk?</tspan>
-            </text><text transform="translate(249.5 73)" fill="black">
-                <tspan font-family="Monoid" font-size="13" font-weight="500" fill="black" x="0" y="17" textLength="138.66667">Harry
-                    Callahan, </tspan>
-                <tspan font-family="Monoid" font-size="13" font-style="italic" font-weight="500" fill="black" x="138.66667"
-                    y="17" textLength="8.666667">D</tspan>
-                <tspan font-family="Monoid" font-size="13" font-style="italic" font-weight="500" fill="black" x="147.875"
-                    y="17" textLength="8.666667">i</tspan>
-                <tspan font-family="Monoid" font-size="13" font-style="italic" font-weight="500" fill="black" x="156" y="17"
-                    textLength="78">rty Harry</tspan>
-            </text>
-        </g>
-    </g>
+<svg version="1.1" id="Layer_1" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="717px" height="444px"
+	 viewBox="0 0 717 444" enable-background="new 0 0 717 444" xml:space="preserve">
+<defs>
+	
+	
+		<font-face  font-weight="300" descent="-273.00055" ascent="984.002" cap-height="673" x-height="491" slope="0" units-per-em="1000" panose-1="2 11 3 3 3 4 3 2 2 4" font-size="12" font-family="Source Sans Pro" underline-thickness="50" underline-position="-75">
+		<font-face-src>
+			<font-face-name  name="SourceSansPro-ExtraLight"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  font-weight="500" descent="-273.00055" ascent="984.002" cap-height="669" x-height="499" slope="0" units-per-em="1000" panose-1="2 11 5 3 3 4 3 2 2 4" font-size="16" font-family="Source Sans Pro" underline-thickness="50" underline-position="-75">
+		<font-face-src>
+			<font-face-name  name="SourceSansPro-Regular"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  font-weight="500" descent="-250" ascent="1083.32825" cap-height="927.0834" x-height="677.08337" slope="0" units-per-em="1000" panose-1="2 11 5 9 4 0 0 2 0 4" font-size="18" font-family="Monoid" underline-thickness="78.125" underline-position="-289.0625">
+		<font-face-src>
+			<font-face-name  name="Monoid-Regular"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  font-weight="500" descent="-250.00002" ascent="1083.32825" cap-height="927.0834" x-height="677.08337" slope="0" units-per-em="1000" panose-1="2 11 5 9 4 0 0 2 0 4" font-size="13" font-family="Monoid" underline-thickness="78.125" underline-position="-289.0625">
+		<font-face-src>
+			<font-face-name  name="Monoid-Regular"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  font-style="italic" font-weight="500" descent="-250.00002" ascent="1083.32825" cap-height="927.0834" x-height="677.08337" slope="-846.15387" units-per-em="1000" panose-1="2 11 5 9 4 0 0 2 0 4" font-size="13" font-family="Monoid" underline-thickness="78.125" underline-position="-289.0625">
+		<font-face-src>
+			<font-face-name  name="Monoid-Italic"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<g>
+	<title>do_i_feel_lucky_gfonts</title>
+	<g>
+		<title>quote</title>
+		<text transform="matrix(1 0 0 1 19.25 430.0605)" font-family="'SourceSansPro-ExtraLight'" font-size="12">Adapted from Pap Chart Lab</text>
+	</g>
+	<g>
+		<title>diagram</title>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="89.25" y1="183.972" x2="117.717" y2="212.439"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="19.25" y1="183.972" x2="277.25" y2="183.972"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="189.595" y1="183.273" x2="189.595" y2="158.439"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="73.785" y1="158.439" x2="73.785" y2="194.792"/>
+		<text transform="matrix(1 0 0 1 26.1138 180.2363)" font-family="'SourceSansPro-Regular'" font-size="16">You</text>
+		<text transform="matrix(1 0 0 1 81.5264 178.7705)" font-family="'SourceSansPro-Regular'" font-size="16">have</text>
+		<text transform="matrix(1 0 0 1 105.894 178.7705)" font-family="'ArialMT'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 125.0625 178.7705)" font-family="'ArialMT'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 118.8384 178.7705)" font-family="'SourceSansPro-Regular'" font-size="16">got </text>
+		<text transform="matrix(1 0 0 1 147.5581 178.7705)" font-family="'ArialMT'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 145.3984 178.7705)" font-family="'SourceSansPro-Regular'" font-size="16">to ask</text>
+		<text transform="matrix(1 0 0 1 203.6631 178.7354)" font-family="'SourceSansPro-Regular'" font-size="16">question</text>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="201.25" y1="185.083" x2="233.25" y2="217.083"/>
+		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 214.0405 192.8994)" font-family="'SourceSansPro-Regular'" font-size="16">one</text>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="117.717" y1="212.439" x2="178.717" y2="212.439"/>
+		<text transform="matrix(1 0 0 1 120.7593 206.1543)" font-family="'SourceSansPro-Regular'" font-size="16">yourself</text>
+		<text transform="matrix(1 0 0 1 128.2314 206.1543)" font-family="'ArialMT'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 151.0947 206.1543)" font-family="'ArialMT'" font-size="12"> </text>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="307.25" y1="263.431" x2="528.25" y2="263.431"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="362.25" y1="238.431" x2="362.25" y2="274.783"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="453.241" y1="263.431" x2="429.25" y2="239.439"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="249.25" y1="185.439" x2="279.25" y2="215.439"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="279.25" y1="214.939" x2="375.25" y2="215.939"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="374.25" y1="215.939" x2="397.25" y2="238.939"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="518.408" y1="354.439" x2="518.408" y2="386.272"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="495.408" y1="353.439" x2="544.408" y2="353.439"/>
+		<text transform="matrix(1 0 0 1 505.874 350.4346)" font-family="'SourceSansPro-Regular'" font-size="16">Well</text>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="456" y1="406.208" x2="713.75" y2="406.208"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="547.75" y1="381.208" x2="547.75" y2="417.561"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x1="644.741" y1="406.208" x2="620.75" y2="382.217"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4" x1="516.908" y1="263.838" x2="516.908" y2="322.48"/>
+		<text transform="matrix(1 0 0 1 126.5 33.25)" font-family="'Monoid-Regular'" font-size="18">You&apos;ve got to ask yourself one question:</text>
+		<text transform="matrix(1 0 0 1 606.4922 33.25)" font-family="'ArialMT'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 126.5 63.75)" font-family="'Monoid-Regular'" font-size="18">‘Do I feel lucky?’ Well, do ya, punk?</text>
+		<text transform="matrix(1 0 0 1 249.5 90)" font-family="'Monoid-Regular'" font-size="13">Harry Callahan, </text>
+		<text transform="matrix(1 0 0 1 388.166 90)" font-family="'Monoid-Italic'" font-size="13">D</text>
+		<text transform="matrix(1 0 0 1 396.833 90)" font-family="'ArialMT'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 397.375 90)" font-family="'Monoid-Italic'" font-size="13">i</text>
+		<text transform="matrix(1 0 0 1 406.041 90)" font-family="'ArialMT'" font-size="12"> </text>
+		<text transform="matrix(1 0 0 1 405.5 90)" font-family="'Monoid-Italic'" font-size="13">rty Harry</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 333 257.5)" font-family="'SourceSansPro-Regular'" font-size="16">I</text>
+<text transform="matrix(1 0 0 1 374 257.5)" font-family="'SourceSansPro-Regular'" font-size="16">Do feel</text>
+<text transform="matrix(1 0 0 1 471 257.5)" font-family="'SourceSansPro-Regular'" font-size="16">lucky</text>
+<text transform="matrix(1 0 0 1 471 398.5)" font-family="'SourceSansPro-Regular'" font-size="16">you (punk)</text>
+<text transform="matrix(1 0 0 1 562 398.5)" font-family="'SourceSansPro-Regular'" font-size="16">do (feel)</text>
+<text transform="matrix(1 0 0 1 657 398.5)" font-family="'SourceSansPro-Regular'" font-size="16">(lucky)</text>
 </svg>
