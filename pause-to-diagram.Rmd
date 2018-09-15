@@ -168,6 +168,7 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 * **Macros**
 * **Quoted argument**
 * **Data mask**
+* **Homoiconicity**
 
 ## _Differentia_
 
