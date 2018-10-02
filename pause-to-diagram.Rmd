@@ -186,4 +186,9 @@ For our sentence diagram, we want to know if we have a compound object (consisti
 
 ### Delayed Bindings vs Active Bindings
 
+### Evaluating vs Parsing
+  e.g. see lionel's reference [here](https://community.rstudio.com/t/a-difference-between-tidyeval-and-substitute-when-the-promise-is-already-evaluated/15480/6)
+  
+### Direct vs Indirect References
+
 [^gettysburg]: <http://www.german-latin-english.com/diagramgettysburg.htm>
